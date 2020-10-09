@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI CALCULATOR</string>
+    <string name="lblWeight">Enter Your Weight</string>
+    <string name="lblHeight">Enter Your Height</string>
+    <string name="btncalc">FIND BMI</string>
+
+    <string name="under">Under Weight</string>
+    <string name="normal">Normal Weight</string>
+    <string name="over">Over Weight</string>
+    <string name="obesity">Obesity</string>
+</resources>
